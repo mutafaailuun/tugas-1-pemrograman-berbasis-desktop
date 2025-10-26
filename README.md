@@ -5,7 +5,7 @@ Ini adalah proyek aplikasi kasir konsol sederhana yang dibuat dengan bahasa pemr
 ## Fitur Utama
 
 - **Menampilkan Daftar Menu**: Program menampilkan daftar menu yang telah ditentukan, dikelompokkan berdasarkan kategori (Makanan dan Minuman).
-- **Pemesanan Pelanggan**: Pelanggan dapat memasukkan pesanan mereka (maksimal 4 menu) beserta jumlahnya. Pelanggan dapat berhenti memesan kapan saja dengan mengetik `s`.
+- **Pemesanan Pelanggan**: Pelanggan dapat memasukkan pesanan mereka (maksimal 4 menu) beserta jumlahnya. Pelanggan dapat berhenti memesan kapan saja dengan mengosongkan input.
 - **Perhitungan Biaya**: Program menghitung total biaya pesanan.
 - **Biaya Tambahan**: Total biaya akan ditambahkan dengan:
   - Pajak 10% dari total biaya.
